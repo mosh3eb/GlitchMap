@@ -1,1 +1,1 @@
-# DisNet-Debugger
+# GlitchMap
